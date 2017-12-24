@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "source": "./assets-bs/js/jquery-2.1.3.min.js",
+            "type": "SCRIPT",
+            "size": 12.096,
+            "stopExecution": false
+        },
+        {
+            "source": "./assets-bs/compiled/BS-STARTER.min.js",
+            "type": "SCRIPT",
+            "size": 10.096,
+            "stopExecution": false
+        },
+        {
+            "source": "./assets-bs/compiled/BS-STARTER.min.css",
+            "type": "CSS",
+            "size": 20.819
+        },
+        {
+            "source": "./sitewide-bs/a-header.php",
+            "type": "PHP",
+            "size": 20.819
+        }
+    ]
+
+}
